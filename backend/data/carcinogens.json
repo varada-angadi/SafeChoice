@@ -1,0 +1,6728 @@
+[
+  {
+    "name": "Aloe vera, whole leaf extract",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Clonorchis sinensis (infection with)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Fusarium graminearum, F. culmorum, and F. crookwellense, toxins derived from (zearalenone, deoxynivalenol, nivalenol, and fusarenone X)",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Fusarium sporotrichioides, toxins derived from (T-2 toxin)",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Helicobacter pylori (infection with)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Microcystis extracts",
+    "group": "3",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "Opisthorchis felineus (infection with)",
+    "group": "3",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Opisthorchis viverrini (infection with)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Schistosoma haematobium (infection with)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Schistosoma japonicum (infection with)",
+    "group": "2B",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Schistosoma mansoni (infection with)",
+    "group": "3",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Acheson process, occupational exposure associated with",
+    "group": "1",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Acid mists, strong inorganic",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Acrylic fibres",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Acrylonitrile-butadiene-styrene copolymers",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Alcoholic beverages",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Alpha particles (see Radionuclides)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Aluminium production",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Anaesthetics, volatile",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Androgenic (anabolic) steroids",
+    "group": "2A",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Areca nut",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Arecoline",
+    "group": "2B",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "Art glass, glass containers and pressed ware (manufacture of)",
+    "group": "2A",
+    "year": "1993",
+    "info": ""
+  },
+  {
+    "name": "Auramine production",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Automotive gasoline (see also Gasoline engine exhaust, and Aviation gasoline)",
+    "group": "1",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "BK polyomavirus (BKV)",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Benzidine, dyes metabolized to",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Beta particles (see Radionuclides)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Betel quid with tobacco",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Betel quid without tobacco",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Biomass fuel (primarily wood), indoor emissions from household combustion of",
+    "group": "2A",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "Bisulfites",
+    "group": "3",
+    "year": "1991",
+    "info": ""
+  },
+  {
+    "name": "Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Boot and shoe manufacture and repair (see Leather dust, Benzene)",
+    "group": "",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Bracken fern",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Calcium carbide production",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Carbon electrode manufacture",
+    "group": "2A",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Carpentry and joinery",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ceramic implants",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Chimney sweeping (see Soot)",
+    "group": "",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Chlorinated drinking-water",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Chlorinated paraffins of average carbon chain length C12 and average degree of chlorination approximately 60%",
+    "group": "2B",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Chlorophenols (see Polychlorophenols)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Chlorophenoxy herbicides",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Coal dust",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Coal gasification",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Coal, indoor emissions from household combustion of",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Cobalt and cobalt compounds, see Soluble cobalt(II) salts, Cobalt metal (without tungsten carbide or other metal alloys), Cobalt(II) oxide, Cobalt(II,III) oxide, Cobalt(II) sulfide, and Other cobalt(II) compounds (not including Soluble cobalt(II) salts, Cobalt(II) oxide, Cobalt(II,III) oxide, or Cobalt(II) sulfide)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Cobalt metal without tungsten carbide, see Cobalt metal (without tungsten carbide or other metal alloys)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Cobalt sulfate and other soluble cobalt(II) salts, see Soluble cobalt(II) salts",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Coffee, drinking",
+    "group": "3",
+    "year": "2016",
+    "info": "NB There is \"evidence suggesting lack of carcinogenicity\" in humans of coffee drinking for cancers of the pancreas, liver, female breast, uterine endometrium, and prostate.  Inverse associations with coffee drinking have been observed with cancers of the liver and uterine endometrium."
+  },
+  {
+    "name": "Coke production",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Continuous glass filament (see Glass filament)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Dental materials",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Depleted uranium (see Radionuclides, alpha-particle-emitting, internally deposited)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Diesel engine exhaust (see Engine exhaust, diesel)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Diesel fuel, marine",
+    "group": "2B",
+    "year": "1988",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Diesel fuels, distillate (light)",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Dry cleaning (occupational exposures in)",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Dyes metabolized to benzidine (see Benzidine, dyes metabolized to)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Electric fields, extremely low-frequency",
+    "group": "3",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Electric fields, static",
+    "group": "3",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Engine exhaust, diesel",
+    "group": "1",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Engine exhaust, gasoline",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Epstein-Barr virus",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Estrogen therapy, postmenopausal",
+    "group": "1",
+    "year": "2008",
+    "info": "NB There is \"evidence suggesting lack of carcinogenicity\" for estrogen-only menopausal therapy in humans and  cancer of the  colorectum. An inverse association has been observed between estrogen-only menopausal therapy and cancer  of the colorectum."
+  },
+  {
+    "name": "Estrogen-progestogen menopausal therapy (combined)",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Estrogen-progestogen oral contraceptives (combined)",
+    "group": "1",
+    "year": "2008",
+    "info": "NB There is \"evidence suggesting lack of carcinogenicity\" for combined estrogen-progestogen oral  contraceptives in humans and cancers of the endometrium, ovary, and colorectum. An inverse association has been  observed between combined estrogen-progestogen oral contraceptives and cancers of the endometrium, ovary, and colorectum."
+  },
+  {
+    "name": "Firefighter (occupational exposure as a)",
+    "group": "1",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Fission products, including strontium-90",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Flat-glass and specialty glass (manufacture of)",
+    "group": "3",
+    "year": "1993",
+    "info": ""
+  },
+  {
+    "name": "Fluorescent lighting",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Fluoro-edenite fibrous amphibole",
+    "group": "1",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Foreign  bodies (see Ceramic implants, Dental materials, Implanted foreign bodies, Metallic implants, Organic polymeric materials, Orthopaedic implants, Polymeric implants, Silicone breast implants)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Frying, emissions from high-temperature",
+    "group": "2A",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "Fuel oils, distillate (light)",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Fuel oils, residual (heavy)",
+    "group": "2B",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Furniture and cabinet making (see Wood dust)",
+    "group": "",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Gamma-Radiation (see X- and Gamma-Radiation)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Aviation gasoline (see also Automotive gasoline, and Gasoline engine exhaust)",
+    "group": "2B",
+    "year": "1988",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Gasoline engine exhaust (see Engine exhaust, gasoline)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Glass filament, continuous",
+    "group": "3",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Goldenseal root powder",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Haematite mining (underground)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Hair colouring products (personal use of)",
+    "group": "3",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Hairdresser or barber (occupational exposure as a)",
+    "group": "2A",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Hepatitis B virus (chronic infection with)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Hepatitis C virus (chronic infection with)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Hepatitis D virus (HDV)",
+    "group": "1",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "Hexachlorocyclohexanes",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "High-temperature frying (see Frying)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Household combustion of biomass fuel (see Biomass fuel, indoor emissions from household combustion of)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Household combustion of coal (see Coal, indoor emissions from household combustion)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Human cytomegalovirus (HCMV)",
+    "group": "2B",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "Human T-cell lymphotropic virus type I",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Human T-cell lymphotropic virus type II",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Human herpesvirus type 4 (see Epstein-Barr virus)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Human herpesvirus type 8 (see Kaposi sarcoma herpesvirus)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Human immunodeficiency virus type 1 (infection with)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Human immunodeficiency virus type 2 (infection with)",
+    "group": "2B",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Human papillomavirus (HPV) genus beta (except types 5 and 8) and genus gamma",
+    "group": "3",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Human papillomavirus (HPV) type 16",
+    "group": "1",
+    "year": "2009",
+    "info": "NB The HPV types that have been classified as carcinogenic to humans can differ by an order of  magnitude in risk for cervical cancer"
+  },
+  {
+    "name": "Human papillomavirus (HPV) type 18",
+    "group": "1",
+    "year": "2009",
+    "info": "NB The HPV types that have been classified as carcinogenic to humans can differ by an order of  magnitude in risk for cervical cancer"
+  },
+  {
+    "name": "Human papillomavirus (HPV) type 33",
+    "group": "1",
+    "year": "2009",
+    "info": "NB The HPV types that have been classified as carcinogenic to humans can differ by an order of  magnitude in risk for cervical cancer"
+  },
+  {
+    "name": "Human papillomavirus (HPV) type 68",
+    "group": "2A",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Human papillomavirus (HPV) types 31, 35, 39, 45, 51, 52, 56, 58, 59",
+    "group": "1",
+    "year": "2009",
+    "info": "NB The HPV types that have been classified as carcinogenic to humans can differ by an order of magnitude in risk for cervical cancer"
+  },
+  {
+    "name": "Human papillomavirus (HPV) types 26, 53, 66, 67, 70, 73, 82",
+    "group": "2B",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Human papillomavirus (HPV) types 30, 34, 69, 85, 97",
+    "group": "2B",
+    "year": "2009",
+    "info": "NB Classified by phylogenetic analogy to the HPV genus alpha types classified in Group 1"
+  },
+  {
+    "name": "Human papillomavirus (HPV) types 5 and 8 (in patients with epidermodysplasia verruciformis)",
+    "group": "2B",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Human papillomavirus (HPV) types 6 and 11",
+    "group": "3",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Hypochlorite salts",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Implanted foreign bodies of metallic chromium or titanium and of cobalt-based, chromium-based, and titanium-based alloys, and stainless steel",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Implanted foreign bodies of metallic cobalt, metallic nickel and an alloy powder containing 66-67% nickel, 13-16% chromium, and 7% iron",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Insulation glass wool",
+    "group": "3",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Involuntary smoking (see Tobacco smoke, secondhand)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Ionizing radiation (all types)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Iron and steel founding (occupational exposure during)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Isopropyl alcohol manufacture using strong acids",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Isopropyl oils",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "JC polyomavirus (JCV)",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Jet fuel",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Kaposi sarcoma herpesvirus",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Lead compounds, inorganic",
+    "group": "2A",
+    "year": "2004",
+    "info": ""
+  },
+  {
+    "name": "Lead compounds, organic",
+    "group": "3",
+    "year": "2004",
+    "info": "NB Organic lead compounds are metabolized at least in part, to ionic lead both in humans and animals. To the extent that ionic lead, generated from organic lead, is present in the body, it will be expected to exert the toxicities associated with inorganic lead"
+  },
+  {
+    "name": "Leather dust",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Leather goods manufacture (see also Leather dust)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Leather tanning and processing",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Lumber and sawmill industries (including logging)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "MOPP and other combined chemotherapy including alkylating agents",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Madder root (Rubia tinctorum)",
+    "group": "3",
+    "year": "2002",
+    "info": ""
+  },
+  {
+    "name": "Magenta production",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Magnetic fields, extremely low-frequency",
+    "group": "2B",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Magnetic fields, static",
+    "group": "3",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Malaria (caused by infection with Plasmodium falciparum in holoendemic areas)",
+    "group": "2A",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Mate, hot (see Very hot beverages)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Mate, not very hot (drinking)",
+    "group": "3",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "Merkel cell polyomavirus (MCPyV)",
+    "group": "1",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "Metabisulfites",
+    "group": "3",
+    "year": "1991",
+    "info": ""
+  },
+  {
+    "name": "Metallic implants prepared as thin smooth films",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Methylmercury compounds",
+    "group": "2B",
+    "year": "1993",
+    "info": "NB Evaluated as a group"
+  },
+  {
+    "name": "Mineral oils, highly-refined",
+    "group": "3",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Mineral oils, untreated or mildly treated",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Modacrylic fibres",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Neutron radiation",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Overall evaluation upgraded to Group 1 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Nickel compounds",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Nickel refining (see Nickel compounds)",
+    "group": "",
+    "year": "1976",
+    "info": ""
+  },
+  {
+    "name": "Night shift work",
+    "group": "2A",
+    "year": "2019",
+    "info": "NB Volume 98 evaluated shiftwork that involves circadian disruption"
+  },
+  {
+    "name": "Nitrate or nitrite (ingested) under conditions that result in endogenous nitrosation",
+    "group": "2A",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "Non-arsenical insecticides (occupational exposures in spraying and application of)",
+    "group": "2A",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Oestrogen (see Estrogen)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Opium consumption",
+    "group": "1",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "Oral contraceptives, combined estrogen-progestogen (see Estrogen-progestogen oral contraceptives)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Organic polymeric materials",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Orthopaedic implants of complex composition and cardiac pacemakers",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Other cobalt(II) compounds (not including Soluble cobalt(II) salts, Cobalt(II) oxide, Cobalt(II,III) oxide, and Cobalt(II) sulfide)",
+    "group": "3",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Outdoor air pollution",
+    "group": "1",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Outdoor air pollution, particulate matter in",
+    "group": "1",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Oxymetholone (see Androgenic (anabolic) steroids)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Paint manufacture (occupational exposure in)",
+    "group": "3",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Painter (occupational exposure as a)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Particulate matter in outdoor air pollution (see Outdoor air pollution, particulate matter in)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Paving and roofing with coal-tar pitch (see Coal-tar pitch)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Pentavalent antimony",
+    "group": "3",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Petroleum refining (occupational exposures in)",
+    "group": "2A",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Petroleum solvents",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Phenacetin, analgesic mixtures containing",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Pickled vegetables (traditional Asian)",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Polychlorinated biphenyls, dioxin-like, with a Toxicity Equivalency Factor (TEF) according to WHO (PCBs 77, 81, 105, 114, 118, 123, 126, 156, 157, 167, 169, 189)",
+    "group": "1",
+    "year": "2013",
+    "info": "NB Overall evaluation upgraded to Group 1 with strong supporting evidence from other relevant data"
+  },
+  {
+    "name": "Polychlorinated dibenzo-para-dioxins (other than 2,3,7,8-tetrachlorodibenzo-para-dioxin)",
+    "group": "3",
+    "year": "1997",
+    "info": ""
+  },
+  {
+    "name": "Polychlorinated dibenzofurans (see 2,3,4,7,8-Pentachlorodibenzofuran)",
+    "group": "3",
+    "year": "1997",
+    "info": ""
+  },
+  {
+    "name": "Polychlorophenols and their sodium salts (mixed exposures) (see Pentachlorophenol; 2,4,6-Trichlorophenol)",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Polymeric implant prepared as thin smooth films (with the exception of poly-glycolic acid)",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Printing inks",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Printing processes (occupational exposures in)",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Processed meat (consumption of)",
+    "group": "1",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "Proflavine salts",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Progestins (see also Progestogen-only contraceptives)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Progestogen-only contraceptives",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Pulp and paper manufacture",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Radiofrequency electromagnetic fields",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Radioiodines, including iodine-131",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Radionuclides, alpha-particle-emitting, internally deposited",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Specific radionuclides for which there is sufficient or limited evidence in humans are also listed individually as Group 1 agents"
+  },
+  {
+    "name": "Radionuclides, beta-particle-emitting, internally deposited",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Specific radionuclides for which there is sufficient evidence in humans are also listed individually as Group 1 agents"
+  },
+  {
+    "name": "Red meat (consumption of)",
+    "group": "2A",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "Refractory ceramic fibres",
+    "group": "2B",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Rock (stone) wool",
+    "group": "3",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Rubber manufacturing industry",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "SV40 polyomavirus",
+    "group": "3",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Salted fish, Chinese-style",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Silicone breast implants",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Slag wool",
+    "group": "3",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Solar radiation (see Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC); Ultraviolet radiation from welding; and Ultraviolet-emitting tanning devices)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Soluble cobalt(II) salts",
+    "group": "2A",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Soot (as found in occupational exposure of chimney sweeps)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Special-purpose fibres such as E-glass and '475' glass fibres",
+    "group": "2B",
+    "year": "2001",
+    "info": ""
+  },
+  {
+    "name": "Sulfites",
+    "group": "3",
+    "year": "1991",
+    "info": ""
+  },
+  {
+    "name": "Sunlamps and sunbeds (see Ultraviolet-emitting tanning devices)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Surgical implants (see Ceramic implants, Dental materials, Implanted foreign bodies, Metallic implants, Organic polymeric materials, Orthopaedic implants, Polymeric implants, Silicone breast implants)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Tea",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Testosterone (see Androgenic (anabolic) steroids)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Tetrakis(hydroxymethyl)phosphonium salts",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Textile manufacturing industry (work in)",
+    "group": "2B",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Tobacco smoke, secondhand",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Tobacco smoking",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Tobacco, smokeless",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Toxins derived from certain Fusarium species (see Fusarium)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Trivalent antimony",
+    "group": "2A",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Ultraviolet radiation from welding (see Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC); Ultraviolet-emitting tanning devices; and Solar radiation)",
+    "group": "1",
+    "year": "2017",
+    "info": "*Volume 100D concluded that there is sufficient evidence for ocular melanoma in welders; **Volume  118 concluded that ultraviolet emissions from welding are carcinogenic to humans (Group 1; there is  sufficient evidence in humans for the carcinogenicity of ultraviolet radiation from welding)"
+  },
+  {
+    "name": "Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC) (see Ultraviolet radiation from welding; Ultraviolet-emitting tanning devices; and Solar radiation)",
+    "group": "1",
+    "year": "2017",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Ultraviolet-emitting tanning devices (see Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC); Ultraviolet radiation from welding; and Solar radiation)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Urethane (see Ethyl carbamate)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Very hot beverages at above 65 °C (drinking)",
+    "group": "2A",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "Weapons-grade tungsten (with nickel and cobalt) alloy",
+    "group": "2B",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Welding fumes",
+    "group": "1",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Wood dust",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Wood smoke (see Biomass fuel, indoor emissions from household combustion)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "X- and Gamma-Radiation",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "4-Chloronitrobenzene",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "para-Nitroanisole",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "4-Vinylcyclohexene",
+    "group": "2B",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Ethylbenzene",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Styrene",
+    "group": "2A",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosopiperidine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Iodine-131 (see Radioiodines)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Radon-222 and its decay products",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Sterigmatocystin",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Parasorbic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Strontium-90 (see Fission products)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "4,4'-Methylenebis(2-chloroaniline) (MOCA)",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Chloropropham",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dinitrosopentamethylenetetramine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Michler’s base [4,4´-methylenebis(N,N-dimethyl)­benzenamine]",
+    "group": "2B",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "4,4'-Methylenediphenyl diisocyanate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "4,4'-Methylenedianiline",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "4,4'-Diaminodiphenyl ether",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Diglycidyl resorcinol ether",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Microcystin-LR",
+    "group": "2B",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "meta-Cresidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Triethanolamine",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Phenicarbazide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2-Ethylhexyl acrylate",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Di(2-ethylhexyl) adipate",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Azobenzene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Acetaminophen (see Paracetamol)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Paracetamol (Acetaminophen)",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Copper 8-hydroxyquinoline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "para-Anisidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Tacrolimus",
+    "group": "1",
+    "year": "2024",
+    "info": ""
+  },
+  {
+    "name": "para-Benzoquinone dioxime",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "N,N'-Diethylthiourea",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Caprolactam",
+    "group": "3",
+    "year": "1998",
+    "info": "Moved to Group 3 following 2019 update to the IARC Monographs Preamble"
+  },
+  {
+    "name": "Lauroyl peroxide",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Tamoxifen",
+    "group": "1",
+    "year": "2008",
+    "info": "NB There is \"evidence suggesting lack of carcinogenicity\" for tamoxifen in humans and  cancer of the female breast. An inverse association has been observed between tamoxifen and  cancer of the female breast."
+  },
+  {
+    "name": "PhIP (2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine)",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "3,7-Dinitrofluoranthene",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosomethylethylamine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Chloramine",
+    "group": "3",
+    "year": "2002",
+    "info": ""
+  },
+  {
+    "name": "para-Dichlorobenzene",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "para-Chloroaniline",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "para-Phenylenediamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "para-Quinone",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "4-Vinylcyclohexene diepoxide",
+    "group": "2B",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "1,2-Epoxybutane",
+    "group": "2B",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Epichlorohydrin",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Glycidyl methacrylate",
+    "group": "2A",
+    "year": "2019",
+    "info": ""
+  },
+  {
+    "name": "Ethylene dibromide",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "1-Bromopropane",
+    "group": "2B",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "1,3-Butadiene",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Acrolein",
+    "group": "2A",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "Allyl chloride",
+    "group": "3",
+    "year": "2019",
+    "info": ""
+  },
+  {
+    "name": "1,2-Dichloroethane",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Acrylonitrile",
+    "group": "1",
+    "year": "2024",
+    "info": ""
+  },
+  {
+    "name": "Chloroacetonitrile",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Chloromethyl methyl ether (see Bis(chloromethyl)ether; chloromethyl methyl ether)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Glyphosate",
+    "group": "2A",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "2-(1-Aziridinyl)ethanol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Vinyl acetate",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Methyl isobutyl ketone",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Diisopropyl ether",
+    "group": "3",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "Succinic anhydride",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "meta-Phenylenediamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Resorcinol",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Bis(2-chloro-1-methylethyl)ether",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Melamine",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Toluene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Cyclohexanone",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Phenol",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "β-Picoline",
+    "group": "3",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "1-Bromo-3-chloropropane",
+    "group": "2B",
+    "year": "2019",
+    "info": ""
+  },
+  {
+    "name": "Tetrahydrofuran",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Furan",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "trans-1,4-Dichlorobutene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Pyridine",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Morpholine",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Bleomycins",
+    "group": "2B",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Diethanolamine",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Bis(2-chloroethyl)ether",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "2-Butoxyethanol",
+    "group": "3",
+    "year": "2004",
+    "info": ""
+  },
+  {
+    "name": "Pioglitazone",
+    "group": "2A",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Naphtho[1,2-b]fluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosodiethanolamine",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "1,3-Propane sultone",
+    "group": "2A",
+    "year": "2014",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Dithranol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Azaserine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Propylene",
+    "group": "3",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Chlorendic acid",
+    "group": "2B",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Dicofol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Tris(2-chloroethyl) phosphate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Aldicarb",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Tetrafluoroethylene",
+    "group": "2A",
+    "year": "2014",
+    "info": "NB Overall evaluation upgraded to Group 2A on the basis of sufficient evidence in experimental animals with a striking and atypical pattern of tumours"
+  },
+  {
+    "name": "Decabromodiphenyl oxide",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Fusarium moniliforme, toxins derived from (fumonisin B1, fumonisin B2, and fusarin C)",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Fumonisin B1",
+    "group": "2B",
+    "year": "2002",
+    "info": ""
+  },
+  {
+    "name": "Dantron (Chrysazin; 1,8-Dihydroxyanthraquinone)",
+    "group": "2B",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Quercetin",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "2-Aminoanthraquinone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Bis(2-ethylhexyl) phthalate (see Di(2-ethylhexyl) phthalate)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Di(2-ethylhexyl)phthalate",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Hexachlorobenzene",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Anthranilic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,4,6-Trinitrotoluene",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Nodularins",
+    "group": "3",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "4-Amino-2-nitrophenol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benzophenone",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "3,3'-Dimethoxybenzidine (ortho-Dianisidine)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "3,3'-Dimethylbenzidine (ortho-Tolidine)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Anthracene",
+    "group": "2B",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "Isosafrole",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "para-Cresidine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Catechol",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Vitamin K substances",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Tungsten carbide with cobalt metal (see Cobalt metal with tungsten carbide)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "2,4-Dinitrotoluene",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "2-Amino-5-nitrothiazole",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N,N-Dimethylaniline",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "3-Chloronitrobenzene",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Malathion",
+    "group": "2A",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "2-Amino-5-nitrophenol",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Zineb",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Attapulgite (see Palygorskite)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Palygorskite (Attapulgite) (long fibres, > 5 micrometres)",
+    "group": "2B",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Palygorskite (Attapulgite)(short fibres, < 5 micrometres)",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Aurothioglucose",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Simazine",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Diphenylamine",
+    "group": "2B",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "Propham",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Phenyl glycidyl ether",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "1,2-Diphenylhydrazine",
+    "group": "2B",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "Rosiglitazone",
+    "group": "3",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Hydroquinone",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Maleic hydrazide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "β-Myrcene",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "1,4-Dioxane",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Chlorodibromomethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Methylarsonic acid",
+    "group": "2B",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Monomethylarsonic acid (see Methylarsonic acid)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Maneb",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Primidone",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Griseofulvin",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Tris(2,3-dibromopropyl) phosphate",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Nitrogen mustard N-oxide",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Chloroprene",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Cyclochlorotine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Hydroxyurea",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Tetrachloroethylene (Perchloroethylene)",
+    "group": "2A",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "N,N-Dimethylacetamide",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Sulfafurazole (Sulfisoxazole)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Butylated hydroxytoluene (BHT)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Vat Yellow 4",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Pyrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "2-Methyl-1-nitroanthraquinone (uncertain purity)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Blue VRS",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Oxyphenbutazone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1-Hydroxyanthraquinone",
+    "group": "2B",
+    "year": "2002",
+    "info": ""
+  },
+  {
+    "name": "Leucomalachite green (see also Malachite green)",
+    "group": "2B",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "1-(2-Chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU) (Lomustine)",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Gallium arsenide (see Arsenic and inorganic arsenic compounds)",
+    "group": "",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Medphalan",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Cobalt(II) oxide",
+    "group": "2B",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Cobalt(II,III) oxide",
+    "group": "3",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Ferric oxide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Antimony trioxide, see Trivalent antimony",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Yellow OB",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Molybdenum trioxide",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Vanadium pentoxide",
+    "group": "2B",
+    "year": "2003",
+    "info": ""
+  },
+  {
+    "name": "Cobalt(II) sulfide",
+    "group": "3",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Haematite",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Zeolites other than erionite (clinoptilolite, phillipsite,mordenite, non-fibrous Japanese zeolite, synthetic zeolites)",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Sodium ortho-phenylphenate",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Dibenzothiophene",
+    "group": "3",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Radium-224 and its decay products",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrososarcosine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Rifampicin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Captan",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Xylenes",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Mineral substances (e.g. talc or vermiculite) that contain asbestos should also be regarded as carcinogenic to humans NB2 These CAS Nos are for substances that CAS does not treat in its regular CA index"
+  },
+  {
+    "name": "Carbon black",
+    "group": "2B",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "Polychlorinated biphenyls",
+    "group": "1",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Iron sorbitol-citric acid complex",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "ortho-Anisidine hydrochloride (see also ortho-Anisidine)",
+    "group": "2A",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "1-Naphthylamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Antimony trisulfide, see Trivalent antimony",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Titanium dioxide",
+    "group": "2B",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "1,2-Bis(chloromethoxy)ethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Cupferron",
+    "group": "2B",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "N-Phenyl-2-naphthylamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Phenazopyridine hydrochloride",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,4,5-Trimethylaniline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Thiram",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Ziram",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Voriconazole",
+    "group": "1",
+    "year": "2024",
+    "info": ""
+  },
+  {
+    "name": "Shikimic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Cyclamates (sodium cyclamate)",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Nitrilotriacetic acid and its salts",
+    "group": "2B",
+    "year": "1998",
+    "info": "NB Evaluated as a group"
+  },
+  {
+    "name": "4,4'-Thiodianiline",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Nithiazide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1-(2-Chloroethyl)-3-(4-methylcyclohexyl)-1-nitrosourea (Methyl-CCNU) (Semustine)",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Radium-226 and its decay products",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Wollastonite",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Benzyl acetate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "para-Dimethylaminoazobenzenediazo sodium sulfonate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Aramite®",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ethyl acrylate",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Tannic acid and tannins",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Aflatoxins",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "3,3′,4,4′-Tetrachloroazobenzene",
+    "group": "2A",
+    "year": "2016",
+    "info": "NB Overall evaluation upgraded to Group 2A"
+  },
+  {
+    "name": "n-Butyl acrylate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "3,4-Epoxy-6-methylcyclohexylmethyl-3,4-epoxy-6-methylcyclo-hexanecarboxylate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Thiouracil",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Aniline hydrochloride (see also Aniline)",
+    "group": "2A",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "2,4-Hexadienal",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Chlordecone (Kepone)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Vinblastine sulfate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Methyl selenac",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ferbam",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Phosphorus-32, as phosphate",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "1,2:3,4-Diepoxybutane (see 1,3-Butadiene)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Sodium diethyldithiocarbamate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "8-Hydroxyquinoline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Melphalan",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Talc",
+    "group": "2A",
+    "year": "2024",
+    "info": "The term \"Talc\" includes \"Talc containing asbestiform fibres other than asbestos\" and \"Talc not containing asbestiform       fibres\", which were evaluated separately in Volume 93. For \"Talc containing asbestos\", see \"Asbestos\"."
+  },
+  {
+    "name": "Talc containing asbestos (see Asbestos)",
+    "group": "",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Talc-based body powder (perineal use of) (see Talc)",
+    "group": "",
+    "year": "2006",
+    "info": ""
+  },
+  {
+    "name": "Silica dust, crystalline, in the form of quartz or cristobalite",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Patulin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2-Mercaptobenzothiazole",
+    "group": "2A",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "Cycasin",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "para-Aminobenzoic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Monuron",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Dulcin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Eosin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Aziridine",
+    "group": "2B",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Radium-228 and its decay products",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Bischloroethyl nitrosourea (BCNU) (Carmustine)",
+    "group": "2A",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Sepiolite",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Isatidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "para-Nitrosodiphenylamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Phenelzine sulfate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trimethylolpropane triacrylate, technical grade",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Cisplatin",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "2,2',5,5'-Tetrachlorobenzidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trifluralin",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Chromium (III) compounds",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "CI Direct Brown 95 (see Benzidine, dyes metabolized to)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "1,2-Diethylhydrazine",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Methyl tert-butyl ether",
+    "group": "2B",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "N'-Nitrosonornicotine (NNN) and 4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone (NNK)",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Gyromitrin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Bisphenol A diglycidyl ether (Araldite)",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "4-Hydroxyazobenzene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benzyl violet 4B",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Fluorides (inorganic, used in drinking-water)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "6-Methylchrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "3-Methylfluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "3-Nitrobenzanthrone",
+    "group": "2B",
+    "year": "2012",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "2,3,7,8-Tetrachlorodibenzo-para-dioxin",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Perfluorooctanesulfonic acid (PFOS)",
+    "group": "2B",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "Nitrofen (technical-grade)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Chromium (VI) compounds",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Streptozotocin",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo[a,i]pyrene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo[a,h]pyrene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Chlorothalonil",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Coronene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzo[ghi]perylene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Anthanthrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo[a,l]pyrene",
+    "group": "2A",
+    "year": "2005",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Atrazine",
+    "group": "3",
+    "year": "1998",
+    "info": "NB Overall evaluation downgraded to Group 3 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Picloram",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo[h,rst]pentaphene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo[e,l]pyrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo[a,e]pyrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzo[e]pyrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Naphtho[2,3-e]pyrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Indeno[1,2,3-cd]pyrene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "CI Orange G",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Orange G (see CI Orange G)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "CI Direct Black 38 (see Benzidine, dyes metabolized to)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "7H-Dibenzo[c,g]carbazole",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Benzo[c]phenanthrene",
+    "group": "2B",
+    "year": "2005",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Triethylene glycol diglycidyl ether",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Benzo[g]chrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Perylene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "3-Carbethoxypsoralen",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benz[j]aceanthrylene",
+    "group": "2B",
+    "year": "2005",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting mechanistic and other relevant data"
+  },
+  {
+    "name": "11H-Benz[bc]aceanthrylene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "4H-Cyclopenta[def]chrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "7-Nitrobenz[a]anthracene",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Benzo[ghi]fluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Naphtho[2,1-a]fluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzo[a]fluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzo[c]fluorene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzo[j]fluoranthene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzo[b]fluoranthene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "3-Nitroperylene",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Fluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Vincristine sulfate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benzo[k]fluoranthene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "13H-Dibenzo[a,g]fluorene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Digoxin",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Daunomycin (Daunorubicin)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ethyl tellurac",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benz[l]aceanthrylene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "T2-Trichothecene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Picene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzo[b]chrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Dibenz[a,c]anthracene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Fluometuron",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Bis(1-aziridinyl)morpholinophosphine sulfide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Triphenylene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Chrysene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Luteoskyrin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Tetrachlorvinphos",
+    "group": "2B",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "1,4-Dimethylphenanthrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Indium phosphide",
+    "group": "2A",
+    "year": "2003",
+    "info": "NB Overall evaluation upgraded to Group 2A"
+  },
+  {
+    "name": "Dibenz[a,j]anthracene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Dibenz[a,j]acridine",
+    "group": "2A",
+    "year": "2011",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Dibenz[c,h]acridine",
+    "group": "2B",
+    "year": "2011",
+    "info": "NB Overall evaluation upgraded to Group 2B with supporting evidence from other relevant data"
+  },
+  {
+    "name": "1,5-Naphthalenediamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benz[a]acridine",
+    "group": "3",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Benz[c]acridine",
+    "group": "3",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "3,9-Dinitrofluoranthene",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Symphytine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dibenz[a,h]acridine",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Aspartame",
+    "group": "2B",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "Oestradiol mustard",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "4,4'-Dimethylangelicin plus ultraviolet A radiation",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Diallate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Senkirkine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Adriamycin (Doxorubicin)",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Riddelliine",
+    "group": "2B",
+    "year": "2002",
+    "info": ""
+  },
+  {
+    "name": "Hycanthone mesylate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Fast Green FCF",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Rugulosin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Potassium bis(2-hydroxyethyl)dithiocarbamate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benzo[a]fluorene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Mirex",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Bis(2,3-epoxycyclopentyl)ether",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Benzo[b]naphtho[2,1-d]thiophene",
+    "group": "3",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Captafol",
+    "group": "2A",
+    "year": "1990",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "CI Pigment Red 3",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "1-Butyl glycidyl ether",
+    "group": "2B",
+    "year": "2019",
+    "info": ""
+  },
+  {
+    "name": "CI Direct Blue 15",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Benzo[b]fluorene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "11-Aminoundecanoic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "cis-9,10-Epoxystearic acid",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Disperse Blue 1",
+    "group": "2B",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "para-Aramid fibrils",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Vinyl toluene",
+    "group": "3",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Butylated hydroxyanisole (BHA)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Nylon 6",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Acepyrene (3,4-dihydrocyclopenta[cd]pyrene)",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Gemfibrozil",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "trans-2-[(Dimethylamino)methylimino]-5-[2-(5-nitro-2-furyl)-vinyl]-1,3,4-oxadiazole",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "CI Direct Blue 6 (see Benzidine, dyes metabolized to)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "A-alpha-C (2-Amino-9H-pyrido[2,3-b]indole)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo-para-dioxin",
+    "group": "3",
+    "year": "1997",
+    "info": ""
+  },
+  {
+    "name": "Ripazepam",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Oil Orange SS",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Toluene diisocyanates",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Hydroxysenkirkine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benzofuran",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Cyclopenta[cd]pyrene",
+    "group": "2A",
+    "year": "2005",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Agaritine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Sunset Yellow FCF",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "HC Blue No. 1",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Disperse Yellow 3",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Allyl isovalerate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "CI Direct Blue 218",
+    "group": "2B",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "3,3'-Dichloro-4,4'-diaminodiphenyl ether",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "HC Red No. 3",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Prednimustine",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosofolic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Prazepam",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Diisopropyl sulfate",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Teniposide",
+    "group": "2A",
+    "year": "1999",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Methyl parathion",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Methoxsalen (8-methoxypsoralen) plus ultraviolet A radiation",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Treosulfan",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Estazolam",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Dichloroacetonitrile",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Hydrazine",
+    "group": "2A",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "Chloral hydrate",
+    "group": "2A",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Lasiocarpine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ochratoxin A",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosohydroxyproline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Chlorambucil",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Zidovudine (AZT)",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "beta-Butyrolactone",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Carbon nanotubes, multiwalled MWCNT-7",
+    "group": "2B",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Carbon nanotubes, multiwalled, other than MWCNT-7",
+    "group": "3",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Carbon nanotubes, single-walled",
+    "group": "3",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Multiwalled carbon nanotubes MWCNT-7 (see Carbon nanotubes, multiwalled MWCNT-7)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Multiwalled carbon nanotubes other than MWCNT-7 (see Carbon nanotubes, multiwalled, other than MWCNT-7)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Single-walled carbon nanotubes (see Carbon nanotubes, single-walled)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Silicon carbide, fibrous",
+    "group": "2B",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Aldrin (see Dieldrin, and aldrin metabolized to dieldrin)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Sudan II",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Aristolochic acid",
+    "group": "1",
+    "year": "2008",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Aristolochic acid, plants containing",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Evans blue",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Zectran",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Monocrotaline",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1,5-Naphthalene diisocyanate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Azacitidine",
+    "group": "2A",
+    "year": "1989",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Dibromoacetonitrile",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "2,2-Bis(bromomethyl)propane-1,3-diol",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Caffeic acid",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "HC Blue No. 2",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Diazinon",
+    "group": "2A",
+    "year": "2015",
+    "info": "NB Overall evaluation upgraded to Group 2A based on mechanistic evidence"
+  },
+  {
+    "name": "Diazomethane",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Etoposide",
+    "group": "1",
+    "year": "2008",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Etoposide in combination with cisplatin and bleomycin",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Perfluorooctanoic acid (PFOA)",
+    "group": "1",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "1-Methylchrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "4-Methylchrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "3-Methylchrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "2-Methylchrysene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "2-Methylfluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Ponceau 3R",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Carmoisine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2-(2-Formylhydrazino)-4-(5-nitro-2-furyl)thiazole",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Procarbazine hydrochloride",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "AF-2 [2-(2-Furyl)-3-(5-nitro-2-furyl)acrylamide]",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5-Methylchrysene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Pentosan polysulfate sodium",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Ponceau MX",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N'-Nitrosoanabasine (NAB)",
+    "group": "3",
+    "year": "2004",
+    "info": ""
+  },
+  {
+    "name": "Nafenopin",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Isophosphamide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5-(Morpholinomethyl)-3-[(5-nitrofurfurylidene)­amino]-2-oxazolidinone",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Brilliant Blue FCF, disodium salt",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1,2,3-Tris(chloromethoxy)propane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "4,5',8-Trimethylpsoralen",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Triamterene",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "4,5'-Dimethylangelicin plus ultraviolet A radiation",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Doxefazepam",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Silicon carbide whiskers",
+    "group": "2A",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Crotonaldehyde",
+    "group": "2B",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "Ethylene sulfide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1,6-Dinitropyrene",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "1,8-Dinitropyrene",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Dacarbazine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Diazepam",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Metronidazole",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Azathioprine",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Ponceau SX",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosomethylvinylamine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5-Aminoacenaphthene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Guinea Green B",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Retrorsine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Seneciphylline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5-Methoxypsoralen",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "2,4'-Diphenyldiamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Auramine",
+    "group": "2B",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Methyl red",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N,N-Bis(2-chloroethyl)-2-naphthylamine (see Chlornaphazine)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Chlornaphazine",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Acridine orange",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Formaldehyde",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Phenobarbital",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Mitomycin C",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Cyclophosphamide",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "DDT (4,4'-dichlorodiphenyltrichloroethane)",
+    "group": "2A",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "Benzo[a]pyrene",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Phenylbutazone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Clomiphene citrate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "6-Mercaptopurine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Reserpine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Actinomycin D",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Kojic acid",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Mustard gas (see Sulfur mustard)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Sulfur mustard",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Tetranitromethane",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Indium tin oxide",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Pronetalol hydrochloride",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Piperonyl butoxide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,4,6-Tris(1-aziridinyl)-s-triazine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5-Fluorouracil",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Propylthiouracil",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Nitrogen mustard",
+    "group": "2A",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ethyl carbamate (Urethane)",
+    "group": "2A",
+    "year": "2007",
+    "info": ""
+  },
+  {
+    "name": "Chlorobenzilate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Amsacrine",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "1-Chloro-2-methylpropene",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "4-Chloro-meta-phenylenediamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Light Green SF",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Cimetidine",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "D & C Red No. 9",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Fenvalerate",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Citrinin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Spironolactone",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Thiotepa",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Apholate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trichlorfon",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Kaempferol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "CI Acid Orange 20",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Orange I (see CI Acid Orange 20)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Angelicin plus ultraviolet A radiation",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Permethrin",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Deltamethrin",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Prednisone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dibenz[a,h]anthracene",
+    "group": "2A",
+    "year": "2005",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "1,4-Diamino-2-nitrobenzene",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Merphalan",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Chrysoidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ethionamide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dibenzo[a,e]fluoranthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Carrageenan, degraded (Poligeenan)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Poligeenan (see Carrageenan, degraded)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Chloroquine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Furosemide (Frusemide)",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Isonicotinic acid hydrazide (Isoniazid)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1,2-Dimethylhydrazine",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "meta-Dichlorobenzene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Isobutyl nitrite",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "1,3-Dichloropropene (technical-grade)",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Malonaldehyde",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Bis(chloromethyl)ether; chloromethyl methyl ether (technical-grade)",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Glycidyl oleate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trichloroacetonitrile",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Tris(1-aziridinyl)phosphine oxide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ethyl selenac",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Chlorozotocin",
+    "group": "2A",
+    "year": "1989",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Gentian violet (see also Leucogentian violet)",
+    "group": "2B",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosodiethylamine",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "1,4-Butanediol dimethanesulfonate (see Busulfan)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Busulfan",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Myleran (see Busulfan)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Mannomustine dihydrochloride",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1-Nitropyrene",
+    "group": "2A",
+    "year": "2012",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "1-[(5-Nitrofurfurylidene)amino]-2-imidazolidinone",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosoguvacine",
+    "group": "3",
+    "year": "2003",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosoguvacoline",
+    "group": "3",
+    "year": "2003",
+    "info": ""
+  },
+  {
+    "name": "Glycidol",
+    "group": "2A",
+    "year": "2000",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Bromochloroacetic acid",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Methylthiouracil",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Carbon tetrachloride",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Cantharidin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Parathion",
+    "group": "2B",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "Diethylstilbestrol",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Benz[a]anthracene",
+    "group": "2B",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Chloramphenicol",
+    "group": "2A",
+    "year": "1989",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Doxylamine succinate",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Semicarbazide hydrochloride",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "3-Chloro-2-methylpropene, technical grade",
+    "group": "2B",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "1,4-Bis(chloromethoxymethyl)benzene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "CI Basic Red 9",
+    "group": "2B",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Malachite green (see also Leucomalachite green)",
+    "group": "3",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "Allyl isothiocyanate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "1,1-Dimethylhydrazine",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Tris(2-methyl-1-aziridinyl)phosphine oxide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Phenytoin",
+    "group": "2B",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "beta-Propiolactone",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Sulfamethazine",
+    "group": "3",
+    "year": "2000",
+    "info": "NB Overall evaluation downgraded to Group 3 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Chlordane",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Cholesterol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1-tert-Butoxypropan-2-ol",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "2,3,4,7,8-Pentachlorodibenzofuran",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "3,3’,4,4’,5-Pentachlorobiphenyl (PCB-126)",
+    "group": "1",
+    "year": "2009",
+    "info": "See Polychlorinated biphenyls, dioxin-like, with a TEF according to WHO"
+  },
+  {
+    "name": "4-Nitropyrene",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Caffeine",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Pyrimethamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Theophylline",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Lindane (see also Hexachlorocyclohexanes)",
+    "group": "1",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "group": "1",
+    "year": "2024",
+    "info": ""
+  },
+  {
+    "name": "2-Nitronaphthalene",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Methotrexate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Nitrofural (Nitrofurazone)",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosomorpholine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Methylazoxymethanol acetate",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Aciclovir",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Vinyl bromide",
+    "group": "2A",
+    "year": "2007",
+    "info": "NB (1) Overall evaluation upgraded to Group 2A based on mechanistic and other relevant data; (2) For practical purposes, vinyl bromide should be considered to act similarly to the human carcinogen vinyl chloride"
+  },
+  {
+    "name": "Chlorofluoromethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Polybrominated biphenyls",
+    "group": "2A",
+    "year": "2013",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data, namely mechanistic similarity with polychlorinated biphenyls classified in Group 1"
+  },
+  {
+    "name": "Methyl carbamate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "HC Yellow No. 4",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Ciclosporin",
+    "group": "1",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "d-Limonene",
+    "group": "3",
+    "year": "1998",
+    "info": "NB Overall evaluation downgraded to Group 3 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Sulfasalazine",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "para-Aminoazobenzene",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "para-Dimethylaminoazobenzene",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Acetamide",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Methimazole",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Dieldrin (see Dieldrin, and aldrin metabolized to dieldrin)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Dieldrin, and aldrin metabolized to dieldrin",
+    "group": "2A",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "Petasitenine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "3-(N-Nitrosomethylamino)propionitrile",
+    "group": "2B",
+    "year": "2003",
+    "info": ""
+  },
+  {
+    "name": "9-Nitroanthracene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5-Nitroacenaphthene",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Leucogentian violet (see also Gentian violet)",
+    "group": "3",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "Oxazepam",
+    "group": "2B",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "2,6-Dinitrotoluene",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "2-Nitrofluorene",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "2,6-Dichloro-para-phenylenediamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Niridazole",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Amitrole",
+    "group": "3",
+    "year": "2000",
+    "info": "NB Overall evaluation downgraded to Group 3 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "2,4-Dichloro-1-nitrobenzene",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "N,N'-Diacetylbenzidine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,4-Diaminoanisole",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "ortho-Phenylenediamine dihydrochloride",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "N-Methyl-N-nitrosourethane",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Chlordimeform",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "3,5-Dinitrotoluene",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Phenacetin",
+    "group": "1",
+    "year": "2008",
+    "info": "NB Overall evaluation upgraded to Group 1 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Ethyl methanesulfonate",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Aniline (see also Aniline hydrochloride)",
+    "group": "2A",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "Thioacetamide",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Thiourea",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Dichlorvos",
+    "group": "2B",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosodimethylamine",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "N-Nitrosodi-n-propylamine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trp-P-1 (3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trp-P-2 (3-Amino-1-methyl-5H-pyrido[4,3-b]indole)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "n-Propyl carbamate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Carbaryl",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Phenoxybenzamine hydrochloride",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1,1,1,2-Tetrachloroethane",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "6-Nitrobenzo[a]pyrene",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Dibromoacetic acid",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Magenta",
+    "group": "2B",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Citrus Red No. 2",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Sudan Red 7B",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Clofibrate",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Ethyl tert-butyl ether",
+    "group": "2B",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "CI Acid Orange 3",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Ethanol in alcoholic beverages",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Diethyl sulfate",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "1,2-Dihydroaceanthrylene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Sudan Brown RR",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Arsenobetaine and other organic arsenic compounds that are not metabolized in humans",
+    "group": "3",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "CI Acid Red 114",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing",
+    "group": "2A",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Mitoxantrone",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Coal-tar pitch",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Methyl methanesulfonate",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Uracil mustard",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Erionite",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Nitrofurantoin",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Furazolidone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Isopropyl alcohol",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Chloroform",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Hexachloroethane",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Glu-P-2 (2-Aminodipyrido[1,2-a:3',2'-d]imidazole)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Glu-P-1 (2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N,N-Dimethylformamide",
+    "group": "2A",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "Tris(aziridinyl)-para-benzoquinone (Triaziquone)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Hexamethylphosphoramide",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "MeA-alpha-C (2-Amino-3-methyl-9H-pyrido[2,3-b]indole)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Shale oils",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "N-Methyl-N-nitrosourea",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Coconut oil diethanolamine condensate",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Jacobine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ampicillin",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "2-Methylimidazole",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Didanosine",
+    "group": "3",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "N-Methyl-N´-nitro-N-nitrosoguanidine (MNNG)",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Hexachlorophene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5,6-Cyclopenteno-1,2-benzanthracene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Benzene",
+    "group": "1",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "1,1,1-Trichloroethane",
+    "group": "2A",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "2-Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazole",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N'-Nitrosoanatabine (NAT)",
+    "group": "3",
+    "year": "2004",
+    "info": ""
+  },
+  {
+    "name": "Endrin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Methoxychlor",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trypan blue",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Methylene blue",
+    "group": "3",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Sulfamethoxazole",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "5-Methylangelicin plus ultraviolet A radiation",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Methyl bromide",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Ethylene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Methyl chloride",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Methyl iodide",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Bromoethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Lead",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Mercury and inorganic mercury compounds",
+    "group": "3",
+    "year": "1993",
+    "info": ""
+  },
+  {
+    "name": "Nickel, metallic",
+    "group": "2B",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Plutonium",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Thorium-232 and its decay products",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Arsenic and inorganic arsenic compounds",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Beryllium and beryllium compounds",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Cadmium and cadmium compounds",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Chromium, metallic",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "Cobalt metal (without tungsten carbide or other metal alloys)",
+    "group": "2A",
+    "year": "2022",
+    "info": ""
+  },
+  {
+    "name": "Cobalt metal with tungsten carbide",
+    "group": "2A",
+    "year": "2003",
+    "info": ""
+  },
+  {
+    "name": "Uranium, mixture of isotopes (see Radionuclides, alpha-particle-emitting, internally deposited)",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Uranium was listed as a Group 1 agent as a member of the family, Radionuclides, alpha-particle-emitting, internally deposited. There was limited evidence for the carcinogenicity of mixtures of uranium isotopes, with positive associations for lung cancer"
+  },
+  {
+    "name": "Sulfur dioxide",
+    "group": "3",
+    "year": "1991",
+    "info": ""
+  },
+  {
+    "name": "Glycidyl stearate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Zalcitabine",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "6-Nitrochrysene",
+    "group": "2A",
+    "year": "2012",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Chloroethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Vinyl chloride",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Vinyl fluoride",
+    "group": "2A",
+    "year": "2007",
+    "info": "NB (1) Overall evaluation upgraded to Group 2A based on mechanistic and other relevant data; (2) For practical purposes, vinyl fluoride should be considered to act similarly to the human carcinogen vinyl chloride"
+  },
+  {
+    "name": "Acetaldehyde",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Acetaldehyde associated with consumption of alcoholic beverages",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Dichloromethane (Methylene chloride)",
+    "group": "2A",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Ethylene oxide",
+    "group": "1",
+    "year": "2009",
+    "info": "NB Overall evaluation upgraded to Group 1 based on mechanistic and other relevant data"
+  },
+  {
+    "name": "Bromoform",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "2-Bromopropane",
+    "group": "2A",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "Bromodichloromethane",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Vinylidene chloride",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Vinylidene fluoride",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Chlorodifluoromethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Nitromethane",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "2-Methylaziridine (Propyleneimine)",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Propylene oxide",
+    "group": "2B",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Dimethylarsinic acid",
+    "group": "2B",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "tert-Butyl alcohol",
+    "group": "3",
+    "year": "2025",
+    "info": ""
+  },
+  {
+    "name": "Chloral",
+    "group": "2A",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "2-Chloro-1,1,1-trifluoroethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosoproline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1,3-Dinitropyrene",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Dichloroacetylene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "N-Ethyl-N-nitrosourea",
+    "group": "2A",
+    "year": "1987",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Pentachloroethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Trichloroacetic acid",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Heptachlor",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "IQ (2-Amino-3-methylimidazo[4,5-f]quinoline)",
+    "group": "2A",
+    "year": "1992",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Silica, amorphous",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Hydrochloric acid",
+    "group": "3",
+    "year": "1991",
+    "info": ""
+  },
+  {
+    "name": "Glycidaldehyde",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Strong-inorganic-acid mists containing sulfuric acid (see Acid mists)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Phenolphthalein",
+    "group": "2B",
+    "year": "1999",
+    "info": ""
+  },
+  {
+    "name": "Dimethyl sulfate",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "MeIQ (2-Amino-3,4-dimethylimidazo[4,5-f]quinoline)",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone",
+    "group": "2B",
+    "year": "2002",
+    "info": ""
+  },
+  {
+    "name": "MeIQx (2-Amino-3,8-dimethylimidazo[4,5-f]quinoxaline)",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Potassium bromate",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Sodium chlorite",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "Selenium and selenium compounds",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Isophorone",
+    "group": "2B",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "Isoprene",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "1,2-Dichloropropane",
+    "group": "1",
+    "year": "2014",
+    "info": ""
+  },
+  {
+    "name": "Methylglyoxal",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "2-Nitropyrene",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "1,1,2-Trichloroethane",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Trichloroethylene",
+    "group": "1",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Acrylamide",
+    "group": "2A",
+    "year": "1994",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Acrylic acid",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "1,1,2,2-Tetrachloroethane",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Dichloroacetic acid",
+    "group": "2B",
+    "year": "2012",
+    "info": ""
+  },
+  {
+    "name": "Dimethylcarbamoyl chloride",
+    "group": "2A",
+    "year": "1998",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "2-Nitropropane",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Tetrabromobisphenol A",
+    "group": "2A",
+    "year": "2016",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from mechanistic data"
+  },
+  {
+    "name": "Dihydroxymethylfuratrizine (see also Panfuran S)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Panfuran S (containing dihydroxymethylfuratrizine)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dapsone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Methyl methacrylate",
+    "group": "3",
+    "year": "1994",
+    "info": ""
+  },
+  {
+    "name": "Aziridyl benzoquinone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Toxaphene (Polychlorinated camphenes)",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "Terpene polychlorinates (Strobane®)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Creosotes",
+    "group": "2A",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Crude oil",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Coal tars (see Coal-tar distillation)",
+    "group": "",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Coal-tar distillation",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Acriflavinium chloride",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Nitrovin",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Saccharated iron oxide",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Bitumens, extracts of steam-refined and air-refined; steam-refined, cracking-residue and air-refined bitumens (see Bitumens, occupational exposures)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "Bitumens, occupational exposure to straight-run bitumens and their emissions during road paving",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Saccharin and its salts",
+    "group": "3",
+    "year": "1998",
+    "info": "NB Overall evaluation downgraded to Group 3 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "Musk xylene",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "1-Amino-2,4-dibromoanthraquinone",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Rhodamine B",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Trichlormethine (Trimustine hydrochloride)",
+    "group": "2B",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "1-Amino-2-methylanthraquinone",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Quintozene (Pentachloronitrobenzene)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "4-Methylimidazole",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Droloxifene",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Dimethoxane",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Acenaphthene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Diacetylaminoazotoluene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Musk ambrette",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Theobromine",
+    "group": "3",
+    "year": "1990",
+    "info": ""
+  },
+  {
+    "name": "1-Methylphenanthrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Bromochloroacetonitrile",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "4,4'-Methylene bis(2-methylaniline)",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Anthraquinone",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Sudan I",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Temazepam",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "Phenanthrene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Butyl benzyl phthalate",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Scarlet Red",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Yellow AB",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Sudan III",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "3-(N-Nitrosomethylamino)propionaldehyde",
+    "group": "3",
+    "year": "2003",
+    "info": ""
+  },
+  {
+    "name": "Pyrido[3,4-c]psoralen",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "7-Methylpyrido[3,4-c]psoralen",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosodiphenylamine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Hydralazine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "1-Nitronaphthalene",
+    "group": "3",
+    "year": "1988",
+    "info": ""
+  },
+  {
+    "name": "Fluorene",
+    "group": "3",
+    "year": "2005",
+    "info": ""
+  },
+  {
+    "name": "Carbazole",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "1-Naphthylthiourea (ANTU)",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Dimethyl hydrogen phosphite",
+    "group": "2B",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "Cinnamyl anthranilate",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "2,6-Dimethylaniline (2,6-Xylidine)",
+    "group": "2B",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "Hexachlorobutadiene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Pentachlorophenol (see also Polychlorophenols)",
+    "group": "1",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "Ptaquiloside",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,4,6-Trimethylaniline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,4,6-Trichlorophenol (see also Polychlorophenols)",
+    "group": "2B",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "N-Vinyl-2-pyrrolidone",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "2-Nitrotoluene",
+    "group": "2A",
+    "year": "2011",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "2-Chloronitrobenzene",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Chloronitrobenzenes (see 2-Chloronitrobenzene, 3-Chloronitrobenzene, 4-Chloronitrobenzene)",
+    "group": "",
+    "year": "",
+    "info": ""
+  },
+  {
+    "name": "1,4-Dichloro-2-nitrobenzene",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Pulegone",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "3-Nitrofluoranthene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Toremifene",
+    "group": "3",
+    "year": "1996",
+    "info": ""
+  },
+  {
+    "name": "ortho-Anisidine (see also ortho-Anisidine hydrochloride)",
+    "group": "2A",
+    "year": "2020",
+    "info": ""
+  },
+  {
+    "name": "ortho-Phenylphenol",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Penicillic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Michler’s ketone [4,4´-Bis(dimethylamino)­benzophenone]",
+    "group": "2B",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "Carrageenan, native",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Kava extract",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Polytetrafluoroethylene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polyvinyl chloride",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polyethylene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polyvinyl alcohol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polyacrylic acid",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polypropylene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polyvinyl acetate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Vinyl chloride-vinyl acetate copolymers",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polyvinyl pyrrolidone",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Polystyrene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Styrene-acrylonitrile copolymers",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Styrene-butadiene copolymers",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Iron-dextrin complex",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Iron-dextran complex",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Ginkgo biloba extract",
+    "group": "2B",
+    "year": "2013",
+    "info": ""
+  },
+  {
+    "name": "Polyurethane foams",
+    "group": "3",
+    "year": "1987",
+    "info": "NB This CAS No. has been deleted."
+  },
+  {
+    "name": "Polychloroprene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Vinylidene chloride-vinyl chloride copolymers",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polymethyl methacrylate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Polymethylene polyphenyl isocyanate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "4,4',6-Trimethylangelicin plus ultraviolet A radiation",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Naphthalene",
+    "group": "2B",
+    "year": "2002",
+    "info": ""
+  },
+  {
+    "name": "Quinoline",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "ortho-Nitroanisole",
+    "group": "2A",
+    "year": "2020",
+    "info": "NB Originally evaluated as 2-Nitroanisole"
+  },
+  {
+    "name": "2-Naphthylamine",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Coumarin",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "3,3'-Dimethoxybenzidine-4,4'-diisocyanate",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "3,3'-Dichlorobenzidine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Amaranth",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "4-Aminobiphenyl",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "Benzidine",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "4-Nitrobiphenyl",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosodi-n-butylamine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N-Methylolacrylamide",
+    "group": "2B",
+    "year": "2021",
+    "info": ""
+  },
+  {
+    "name": "Methyleugenol",
+    "group": "2A",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "N-Nitrosopyrrolidine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Benzoyl peroxide",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Dihydrosafrole",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Safrole",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,4-D (2,4-dichlorophenoxyacetic acid) (See also Chlorophenoxy herbicides)",
+    "group": "2B",
+    "year": "2015",
+    "info": ""
+  },
+  {
+    "name": "Sulfallate",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "ortho-Dichlorobenzene",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "ortho-Toluidine",
+    "group": "1",
+    "year": "2009",
+    "info": ""
+  },
+  {
+    "name": "ortho-Phenylenediamine",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "2,4-Xylidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "4-Chloro-ortho-toluidine",
+    "group": "2A",
+    "year": "2008",
+    "info": ""
+  },
+  {
+    "name": "2,5-Diaminotoluene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2,5-Xylidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "5-Chloro-ortho-toluidine",
+    "group": "3",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "2,4-Diaminotoluene",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "4-Chloro-ortho-phenylenediamine",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2-Amino-4-chlorophenol",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Styrene-7,8-oxide",
+    "group": "2A",
+    "year": "2018",
+    "info": "NB Overall evaluation upgraded to Group 2A with supporting evidence from other relevant data"
+  },
+  {
+    "name": "1,2-Dibromo-3-chloropropane",
+    "group": "2B",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "2,3-Dibromopropan-1-ol",
+    "group": "2B",
+    "year": "2000",
+    "info": ""
+  },
+  {
+    "name": "1,2,3-Trichloropropane",
+    "group": "2A",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "1,3-Dichloro-2-propanol",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "3-Monochloro-1,2-propanediol",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "Methyl acrylate",
+    "group": "2B",
+    "year": "2018",
+    "info": ""
+  },
+  {
+    "name": "Ethylenethiourea",
+    "group": "3",
+    "year": "2000",
+    "info": "NB Overall evaluation downgraded to Group 3 with supporting evidence from other relevant data"
+  },
+  {
+    "name": "gamma-Butyrolactone",
+    "group": "3",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Eugenol",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Isoeugenol",
+    "group": "2B",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "ortho-Aminoazotoluene",
+    "group": "2B",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Disulfiram",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Butyl methacrylate",
+    "group": "2B",
+    "year": "2023",
+    "info": ""
+  },
+  {
+    "name": "Furfuryl alcohol",
+    "group": "2B",
+    "year": "2017",
+    "info": ""
+  },
+  {
+    "name": "Furfural",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "4-Chlorobenzotrifluoride",
+    "group": "2B",
+    "year": "2019",
+    "info": ""
+  },
+  {
+    "name": "Cumene",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "α-Methylstyrene",
+    "group": "2B",
+    "year": "2011",
+    "info": ""
+  },
+  {
+    "name": "alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)",
+    "group": "2A",
+    "year": "1998",
+    "info": ""
+  },
+  {
+    "name": "Nitrobenzene",
+    "group": "2B",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "Rhodamine 6G",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "Nitrotoluenes",
+    "group": "3",
+    "year": "1995",
+    "info": ""
+  },
+  {
+    "name": "5-Nitro-ortho-toluidine",
+    "group": "3",
+    "year": "1989",
+    "info": ""
+  },
+  {
+    "name": "1,2-Diamino-4-nitrobenzene",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "2-Amino-4-nitrophenol",
+    "group": "3",
+    "year": "1992",
+    "info": ""
+  },
+  {
+    "name": "5-Nitro-ortho-anisidine",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N-Methyl-N,4-dinitrosoaniline",
+    "group": "3",
+    "year": "1987",
+    "info": ""
+  },
+  {
+    "name": "N,N-Dimethyl-p-toluidine",
+    "group": "2B",
+    "year": "2016",
+    "info": ""
+  },
+  {
+    "name": "tert-Amyl methyl ether",
+    "group": "3",
+    "year": "2025",
+    "info": ""
+  }
+]
