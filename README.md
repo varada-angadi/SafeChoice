@@ -17,13 +17,13 @@ Other Tools: zxing/library</br>
 # Screenshots / Demo
 <table>
   <tr>
-    <td><img src="src/assets/screenshots/home.png" alt="SafeChoice Home" width="250"/></td>
-    <td><img src="src/assets/screenshots/search.png" alt="SafeChoice Dashboard" width="250"/></td>
-    <td><img src="src/assets/screenshots/scan.png" alt="SafeChoice Scan" width="250"/></td>
-    <td><img src="src/assets/screenshots/result1.png" alt="SafeChoice Scan" width="250"/></td>
-    <td><img src="src/assets/screenshots/result2.png" alt="SafeChoice Scan" width="250"/></td>
-    <td><img src="src/assets/screenshots/info.png" alt="SafeChoice Scan" width="250"/></td>
-    <td><img src="src/assets/screenshots/feedback.png" alt="SafeChoice Scan" width="250"/></td>  
+    <td><img src="frontend/src/assets/screenshots/home.png" alt="SafeChoice Home" width="250"/></td>
+    <td><img src="frontendsrc/assets/screenshots/search.png" alt="SafeChoice Dashboard" width="250"/></td>
+    <td><img src="frontendsrc/assets/screenshots/scan.png" alt="SafeChoice Scan" width="250"/></td>
+    <td><img src="frontendsrc/assets/screenshots/result1.png" alt="SafeChoice Scan" width="250"/></td>
+    <td><img src="frontendsrc/assets/screenshots/result2.png" alt="SafeChoice Scan" width="250"/></td>
+    <td><img src="frontendsrc/assets/screenshots/info.png" alt="SafeChoice Scan" width="250"/></td>
+    <td><img src="frontendsrc/assets/screenshots/feedback.png" alt="SafeChoice Scan" width="250"/></td>  
   </tr>
 </table>
 
