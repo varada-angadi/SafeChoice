@@ -31,7 +31,7 @@ Other Tools: zxing/library</br>
 1. Clone the repo</br>
 ```
 git clone https://github.com/yourusername/SafeChoice.git
-cd SafeChoice
+cd safe-choice
 ```
 
 
