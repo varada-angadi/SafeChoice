@@ -49,5 +49,7 @@ JWT_SECRET=your_secret_key
 
 
 4. Start backend & frontend</br>
-npm run server</br>
-npm start</br>
+```
+npm run server
+npm start
+```
