@@ -30,21 +30,21 @@ Other Tools: zxing/library</br>
 # Setup & Installation
 1. Clone the repo</br>
 ```
-git clone https://github.com/yourusername/SafeChoice.git</br>
-cd SafeChoice</br>
+git clone https://github.com/yourusername/SafeChoice.git
+cd SafeChoice
 ```
 
 
 2. Install dependencies</br>
 ```
-npm install</br>
+npm install
 ```
 
 
 3. Create .env</br>
 ```
-MONGO_URI=your_mongodb_connection_string</br>
-JWT_SECRET=your_secret_key</br>
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 ```
 
 
